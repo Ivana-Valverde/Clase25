@@ -1,0 +1,35 @@
+.título{
+font-family: Amarante;
+font-size: 2 rem;
+}
+body{
+    font-family:Amarante;
+    font-size: 1.5rem;
+    color:rgb(3, 3, 3);
+    background: url(https://th.bing.com/th/id/R.3f0e975ec01f7c8bf3c3155d0576ac96?rik=5Y2Qyllil8DZ6g&riu=http%3a%2f%2f2.bp.blogspot.com%2f---kPNuKXIeY%2fTx7SOP_xwrI%2fAAAAAAAAHxc%2fVs78SNKCXGU%2fs1600%2fMappam_Humble.jpg&ehk=lBP9yZnSEZ8pFebK9TuoL0B20XJvql%2bSG0MJAwiVRMk%3d&risl=&pid=ImgRaw&r=0);
+    border: 5px solid black;
+    height: 700px;
+    width:600px;
+    margin-left: 350px;
+    text-align: center;
+}
+
+.formulario{
+ border: 2px solid black;
+ border-radius: 4px;
+ font-family: Amarante;
+ width:100px;
+}
+button:hover{
+ background-color: rgb(16, 167, 255);
+ width:100px;
+ height:30px;
+}
+.formu{
+ margin-left: 20px;
+ width:550px;
+ height:80px ;
+}
+.resultado{
+color:white;
+}
